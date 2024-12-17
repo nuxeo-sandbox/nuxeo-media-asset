@@ -27,7 +27,7 @@ import static org.nuxeo.ecm.platform.video.VideoConstants.VIDEO_FACET;
 import java.io.IOException;
 import java.util.List;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import nuxeo.media.asset.test.utils.SampleContent;
 import org.junit.Assert;

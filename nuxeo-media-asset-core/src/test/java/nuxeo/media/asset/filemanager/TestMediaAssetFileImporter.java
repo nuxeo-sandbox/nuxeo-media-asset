@@ -21,7 +21,7 @@ package nuxeo.media.asset.filemanager;
 
 import java.io.IOException;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import nuxeo.media.asset.test.features.FilemanagerTestFeature;
 import nuxeo.media.asset.test.features.MediaAssetTestFeature;
