@@ -29,7 +29,7 @@ import java.io.Serializable;
 import java.util.Collections;
 import java.util.UUID;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import nuxeo.media.asset.test.utils.SampleContent;
 import nuxeo.media.asset.test.utils.TestContentBuilder;
